@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Owen Muthami.
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning HTML, Javascript, Java, PHP, CSS ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, Javascript, Python, PHP, CSS, Kotlin ...
+- 💞️ I’m looking to collaborate on making apps
 - 📫 How to reach me Email: omuthami27@gmail.com/ owen@listless17.top .
 
 <!---
